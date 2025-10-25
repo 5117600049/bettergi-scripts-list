@@ -1,5 +1,5 @@
 {
-  "time": "20251023215944",
+  "time": "20251025184241",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -35721,7 +35721,7 @@
                   "lastUpdated": "2025-09-16 19:18:38"
                 },
                 {
-                  "name": "霜夜灵嗣02-希汐岛北（1）.json",
+                  "name": "霜夜灵嗣02-希汐岛南（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35733,15 +35733,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣03-希汐岛南（1）.json",
+                  "name": "霜夜灵嗣03-伦波岛西（4）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35753,15 +35753,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣04-伦波岛西（4）.json",
+                  "name": "霜夜灵嗣04-蓝珀湖（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35773,15 +35773,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣05-蓝珀湖（1）.json",
+                  "name": "霜夜灵嗣05-蓝珀湖西（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35793,15 +35793,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣06-蓝珀湖西（1）.json",
+                  "name": "霜夜灵嗣06-克拉蒂之眼北（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35813,15 +35813,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣07-克拉蒂之眼北（1）.json",
+                  "name": "霜夜灵嗣07-克拉蒂之眼（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35833,15 +35833,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣08-克拉蒂之眼（1）.json",
+                  "name": "霜夜灵嗣08-空寂走廊（2）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35853,15 +35853,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣09-空寂走廊（2）.json",
+                  "name": "霜夜灵嗣09-设计局西（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35873,15 +35873,15 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 },
                 {
-                  "name": "霜夜灵嗣10-设计局西（1）.json",
+                  "name": "霜夜灵嗣10-设计局东（1）.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "鸿羽er",
@@ -35893,32 +35893,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.50.0",
+                    "bgi≥0.52.0",
                     "敌人与魔物",
                     "霜夜灵嗣",
                     "战斗"
                   ],
-                  "lastUpdated": "2025-09-16 19:18:38"
-                },
-                {
-                  "name": "霜夜灵嗣11-设计局东（1）.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "鸿羽er",
-                  "authors": [
-                    {
-                      "name": "鸿羽er",
-                      "link": "https://github.com/evildoer12138"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.50.0",
-                    "敌人与魔物",
-                    "霜夜灵嗣",
-                    "战斗"
-                  ],
-                  "lastUpdated": "2025-09-16 19:18:38"
+                  "lastUpdated": "2025-10-24 12:15:37"
                 }
               ]
             },
@@ -84221,7 +84201,7 @@
         {
           "name": "AAA-Artifacts-Bulk-Supply",
           "type": "directory",
-          "version": "1.4.1",
+          "version": "1.4.2",
           "author": "mno",
           "authors": [
             {
@@ -84237,7 +84217,7 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2025-10-21 23:14:12"
+          "lastUpdated": "2025-10-25 11:46:07"
         },
         {
           "name": "AEscoffier_chef",
@@ -84280,7 +84260,7 @@
         {
           "name": "AbundantOre",
           "type": "directory",
-          "version": "0.16",
+          "version": "0.17",
           "author": "芝士贝果",
           "authors": [
             {
@@ -84292,7 +84272,7 @@
           "tags": [
             "bgi≥0.50.0"
           ],
-          "lastUpdated": "2025-10-15 09:13:11"
+          "lastUpdated": "2025-10-25 12:29:15"
         },
         {
           "name": "AcceleratedEditionSwitchParty",
@@ -84350,7 +84330,7 @@
         {
           "name": "AotoTeyvatFoodOneDragon",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "MissDan",
           "authors": [
             {
@@ -84365,16 +84345,19 @@
               "name": "芝麻糊"
             }
           ],
-          "description": "提瓦特食材一条龙~|~提瓦特食材一条龙，原厨玩家自己的js（bushi）！",
+          "description": "提瓦特食材一条龙~|~提瓦特食材一条龙，原厨玩家自己的js（bushi）！请阅读readme后使用！",
           "tags": [
-            "bgi≥0.49.0"
+            "bgi≥0.49.0",
+            "食材",
+            "原厨",
+            "食材加工"
           ],
-          "lastUpdated": "2025-10-19 20:29:19"
+          "lastUpdated": "2025-10-24 09:26:39"
         },
         {
           "name": "ArtifactsGroupPurchasing",
           "type": "directory",
-          "version": "1.5.6",
+          "version": "1.5.10",
           "author": "mno",
           "authors": [
             {
@@ -84390,7 +84373,7 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2025-10-23 19:36:37"
+          "lastUpdated": "2025-10-25 11:46:07"
         },
         {
           "name": "Auto Theft NPC & 原食",
@@ -84666,7 +84649,7 @@
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "1.9.6",
+          "version": "1.9.9",
           "author": "mno",
           "authors": [
             {
@@ -84680,7 +84663,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2025-10-23 19:36:37"
+          "lastUpdated": "2025-10-25 18:42:14"
         },
         {
           "name": "AutoLeyLineOutcrop",
@@ -84727,7 +84710,7 @@
         {
           "name": "AutoMonday",
           "type": "directory",
-          "version": "1.3.1",
+          "version": "1.3.2",
           "author": "江紫烟owo",
           "authors": [
             {
@@ -84742,7 +84725,7 @@
             "爱可菲",
             "质变仪"
           ],
-          "lastUpdated": "2025-10-09 23:53:05"
+          "lastUpdated": "2025-10-24 17:15:16"
         },
         {
           "name": "AutoNobushi",
@@ -84927,7 +84910,7 @@
         {
           "name": "AutoWoodcutting-Pathing",
           "type": "directory",
-          "version": "2.1.5",
+          "version": "3.0.1",
           "author": "Tim",
           "authors": [
             {
@@ -84946,7 +84929,7 @@
             "地图追踪",
             "王树瑞佑"
           ],
-          "lastUpdated": "2025-10-20 19:52:17"
+          "lastUpdated": "2025-10-25 12:34:45"
         },
         {
           "name": "AutoYuanQin",
@@ -85149,34 +85132,24 @@
           "lastUpdated": "2025-07-04 23:14:44"
         },
         {
-          "name": "ExitGame",
+          "name": "ExitGameMultipleMode",
           "type": "directory",
-          "version": "1.0",
-          "author": "Because",
+          "version": "1.1",
+          "author": "起个名字好难的喵",
           "authors": [
             {
-              "name": "Because",
-              "link": "https://github.com/Because66666"
+              "name": "起个名字好难的喵",
+              "link": "https://github.com/MisakaAldrich"
             }
           ],
-          "description": "完全退出游戏~|~配合其他脚本使用。当其他任务完成之后，调用此脚本完成游戏退出（指结束游戏进程）",
-          "tags": [],
-          "lastUpdated": "2025-07-04 23:14:44"
-        },
-        {
-          "name": "ExitGametoDesktop",
-          "type": "directory",
-          "version": "1.0",
-          "author": "MeisterJ",
-          "authors": [
-            {
-              "name": "MeisterJ",
-              "link": "https://github.com/MeisterJ"
-            }
+          "description": "退出游戏多模式~|~用于各种各样的退出游戏，主要是轮子太多了，功能还差不多",
+          "tags": [
+            "退出游戏",
+            "关闭游戏",
+            "完全退出",
+            "桌面"
           ],
-          "description": "完全退出游戏到桌面~|~原理基于Because66666的ExitGame, 配合原神更新，一步到位关闭游戏",
-          "tags": [],
-          "lastUpdated": "2025-07-04 23:14:44"
+          "lastUpdated": "2025-10-25 12:29:44"
         },
         {
           "name": "FeatherFalling",
@@ -85307,6 +85280,23 @@
           "description": "领取邮件~|~用于领取邮件",
           "tags": [],
           "lastUpdated": "2025-07-05 00:25:10"
+        },
+        {
+          "name": "MiliastraExperienceAutomation",
+          "type": "directory",
+          "version": "0.1.2",
+          "author": "breadgrocery",
+          "authors": [
+            {
+              "name": "breadgrocery",
+              "link": "https://github.com/breadgrocery"
+            }
+          ],
+          "description": "千星奇域每周刷取经验值~|~千星奇域每周刷取经验值",
+          "tags": [
+            "bgi≥0.48.0"
+          ],
+          "lastUpdated": "2025-10-24 20:35:19"
         },
         {
           "name": "NaiLong",
@@ -85484,7 +85474,7 @@
         {
           "name": "PurchaseArtifacts",
           "type": "directory",
-          "version": "2.3",
+          "version": "2.3.1",
           "author": "柒叶子",
           "authors": [
             {
@@ -85500,7 +85490,7 @@
           "tags": [
             "bgi≥0.51"
           ],
-          "lastUpdated": "2025-10-23 17:57:21"
+          "lastUpdated": "2025-10-24 11:59:54"
         },
         {
           "name": "QuickSwapGadgets",
@@ -85516,21 +85506,6 @@
           "description": "切换小道具~|~切换小道具 ",
           "tags": [],
           "lastUpdated": "2025-07-04 23:14:44"
-        },
-        {
-          "name": "QuitGame",
-          "type": "directory",
-          "version": "1.0",
-          "author": "HZYgrandma",
-          "authors": [
-            {
-              "name": "HZYgrandma",
-              "link": "https://github.com/HZYgrandma"
-            }
-          ],
-          "description": "退出游戏~|~用于退出游戏",
-          "tags": [],
-          "lastUpdated": "2025-07-05 00:25:10"
         },
         {
           "name": "RecognitionDemo",
@@ -85975,11 +85950,15 @@
         {
           "name": "切换账号Dropdown",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "密密麻麻",
           "authors": [
             {
               "name": "密密麻麻"
+            },
+            {
+              "name": "羊汪汪",
+              "link": "https://github.com/ColinXHL"
             }
           ],
           "description": "切换账号（从下拉列表中选择）~|~退出当前登录用户并从列表中选定指定用户，纯鼠标操作。",
@@ -85988,7 +85967,7 @@
             "鼠标点击",
             "切换账号"
           ],
-          "lastUpdated": "2025-09-29 22:43:55"
+          "lastUpdated": "2025-10-24 20:36:08"
         },
         {
           "name": "副本选择难度",
@@ -86332,7 +86311,7 @@
         {
           "name": "角色养成一条龙",
           "type": "directory",
-          "version": "1.4",
+          "version": "1.5",
           "author": "柒叶子",
           "authors": [
             {
@@ -86342,7 +86321,7 @@
           ],
           "description": "角色养成一条龙~|~详见readme.md",
           "tags": [],
-          "lastUpdated": "2025-09-28 22:09:38"
+          "lastUpdated": "2025-10-24 09:30:32"
         },
         {
           "name": "计算机",
@@ -86806,7 +86785,7 @@
         {
           "name": "万能战斗策略（萌新推荐）.txt",
           "type": "file",
-          "version": "v1.2",
+          "version": "v1.3",
           "author": "火山",
           "authors": [
             {
@@ -86814,7 +86793,7 @@
               "link": "https://github.com/RRRR623"
             }
           ],
-          "description": "万能战斗策略（新手推荐）。需要在，调度器→配置组→设置→战斗配置（开启）→自动检测战斗结束（开启）→更快检查结束战斗（开启）→旋转寻找敌人位置（开启）,Q前检测（开启），尝试面向敌人（可选开启）→检查战斗结束的延时（0.4）→按键触发后检查延时（0.4）→盾奶角色优先释放技能（开启，设置你的盾位）→自动拾取掉落物（有带万叶/琴的！！不要开启！！）→聚集材料动作使用万叶/琴（会自动二选一，优先万叶）长E收集掉落物（开启）",
+          "description": "万能战斗策略（新手推荐）。内含详细使用说明，请务必打开本文档！！！",
           "tags": [
             "茜特菈莉",
             "伊涅芙",
@@ -86844,13 +86823,14 @@
             "久岐忍",
             "瓦雷莎",
             "夏沃蕾",
+            "奈芙尔",
             "希诺宁",
             "枫原万叶",
             "砂糖",
             "琴",
             "娜维娅"
           ],
-          "lastUpdated": "2025-10-18 18:49:52"
+          "lastUpdated": "2025-10-24 22:45:43"
         },
         {
           "name": "万芙芭茜.txt",
@@ -87310,7 +87290,7 @@
             "枫原万叶",
             "玛薇卡"
           ],
-          "lastUpdated": "2025-10-18 18:49:21"
+          "lastUpdated": "2025-10-24 12:01:02"
         },
         {
           "name": "低命融仆.txt",
@@ -90789,6 +90769,78 @@
                 "琴"
               ],
               "lastUpdated": "2025-08-16 09:43:03"
+            },
+            {
+              "name": "[6_2]无量疾战_决定性打击.txt",
+              "type": "file",
+              "version": "20251024092836",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "菲谢尔 凯亚 砂糖 6.2 铸境研炼 无量疾战 决定性打击 只保证拿满3000分 PS：特殊效果，击败敌人骰子数量增加1，所以导致一回合内可以用多次技能，但是bettergi不知道，所以这边建议可以手动完成对局。（注意，技能1是从右边往左数第1个，技能2是从右边往左数第2个，技能3是从右边往左数第3个，以此类推。同时，如果一回合技能打完之后下一回合起始角色更换，那就去切换角色）",
+              "tags": [
+                "菲谢尔",
+                "凯亚",
+                "砂糖"
+              ],
+              "lastUpdated": "2025-10-24 09:28:36"
+            },
+            {
+              "name": "[6_2]无量疾战_如海浪般疾行.txt",
+              "type": "file",
+              "version": "20251024092836",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "菲谢尔 凯亚 砂糖 6.2 铸境研炼 无量疾战 如海浪般疾行 只保证拿满3000分 PS：这个有bettergi不能执行的操作，bettergi七圣召唤没有关于直接切换角色的操作，所以建议手动完成（注意，技能1是从右边往左数第1个，技能2是从右边往左数第2个，技能3是从右边往左数第3个，以此类推。同时，如果一回合技能打完之后下一回合起始角色更换，那就去切换角色）",
+              "tags": [
+                "菲谢尔",
+                "凯亚",
+                "砂糖"
+              ],
+              "lastUpdated": "2025-10-24 09:28:36"
+            },
+            {
+              "name": "[6_2]无量疾战_数量的优势.txt",
+              "type": "file",
+              "version": "20251024092836",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "菲谢尔 凯亚 砂糖 6.2 铸境研炼 无量疾战 数量的优势 只保证拿满3000分",
+              "tags": [
+                "菲谢尔",
+                "凯亚",
+                "砂糖"
+              ],
+              "lastUpdated": "2025-10-24 09:28:36"
+            },
+            {
+              "name": "[6_2]无量疾战_无情的冻雨.txt",
+              "type": "file",
+              "version": "20251024092836",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "菲谢尔 凯亚 砂糖 6.2 铸境研炼 无量疾战 无情的冻雨 只保证拿满3000分 PS：特殊效果，对面被冻结获得两个万能骰子，所以导致一回合内可以用多次技能，但是bettergi不知道，所以这边建议可以手动完成对局。（注意，技能1是从右边往左数第1个，技能2是从右边往左数第2个，技能3是从右边往左数第3个，以此类推。同时，如果一回合技能打完之后下一回合起始角色更换，那就去切换角色）",
+              "tags": [
+                "菲谢尔",
+                "凯亚",
+                "砂糖"
+              ],
+              "lastUpdated": "2025-10-24 09:28:36"
             }
           ]
         },
